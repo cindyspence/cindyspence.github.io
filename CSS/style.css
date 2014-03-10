@@ -1,0 +1,29 @@
+/* set repeating page background image */
+body {
+    background-color: #696969;
+    }
+    
+p {
+    background-color: #696969;
+    }
+    
+    {
+    margin: 0;
+    padding: 0;
+    border: 0:
+    font-size: 100%;
+    font: inherit;
+    }
+    
+html {
+    width: 100%;
+    }
+    
+.logo h1 a {
+        width: 90px;
+        height: 90px;
+        display: block;
+        background: csportrait.jpg/images right;
+        text-indent: -999px;
+        padding: 0;
+    }    

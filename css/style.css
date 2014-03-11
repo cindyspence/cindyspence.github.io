@@ -73,4 +73,23 @@ p {
     margin: 0;
 }
 /* p is body type for remainder of text on site */
-/* background on all pages charcoal gray, name color on layout or here? */ 
+/* background on all pages charcoal gray, name color on layout or here? */ 
+
+footer {
+width: 100%;
+background: #336699;
+float: left;
+margin: 0 0 .5% 0;
+border-radius: 10px;
+box-shadow: 5px 5px 10px #202020
+}
+
+address {
+font-size : 16px; 
+text-align : center; 
+color: #efefef;
+padding: 1% 0;
+text-shadow: 1px 1px 0px #202020
+}
+
+

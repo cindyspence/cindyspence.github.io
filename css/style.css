@@ -135,19 +135,17 @@ p {
 
 footer {
 width: 100%;
-background: #696969;
+background: #000000;
 float: left;
 margin: 0 0 .5% 0;
 border-radius: 10px;
-box-shadow: 5px 5px 10px #202020
 }
 
 address {
 font-size : 16px; 
 text-align : center; 
-color: #efefef;
+color: #ffffff;
 padding: 1% 0;
-text-shadow: 1px 1px 0px #202020
 }
 
 

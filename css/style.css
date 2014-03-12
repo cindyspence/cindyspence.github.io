@@ -19,12 +19,8 @@
 #cssmenu ul {
   zoom: 1;
   background: #000000 url(pattern.png) top left repeat;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
   border-radius: 4px;
   border: 1px solid #000000;
-  -moz-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
-  -webkit-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
   box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
 }
 #cssmenu ul:before {
@@ -43,7 +39,6 @@
   display: block;
   text-decoration: none;
   color: #ffffff;
-  text-shadow: 0 -1px 1px #696969;
   border-right: 1px solid #696969;
 }
 #cssmenu a:hover {
@@ -76,6 +71,7 @@ h1 {
 
 p {
     background-color: #696969;
+    color: #ffffff;
     }
     
     {
@@ -138,6 +134,7 @@ footer {
 }
 
 footer ul {
+    color: #ffffff;
     list-style-type: none;
     margin-top: 0;
     padding: 10px;

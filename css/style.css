@@ -53,8 +53,15 @@
   background: #00ffff url(pattern.png) top left repeat;
 }
 
+html { 
+  background: url(../images/csportrait.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 body {
-    background-color: #696969;
     font-family: Arial, Helvetica, sans-serif;
     color: #ffffff;
 }
@@ -70,7 +77,6 @@ h1 {
 }
 
 p {
-    background-color: #696969;
     color: #ffffff;
     }
     
@@ -80,7 +86,7 @@ p {
     border: 0;
     font-size: 100%;
     }
-    
+
 h1 a {
         width: 90px;
         height: 90px;
@@ -113,7 +119,6 @@ h3 {
 /* h3 is for the pulldown menus at top of home page */
 
 p {
-    background-color: #000;
     font-family: Arial, Helvetica, sans-serif;
     color: #ffffff;
     font-size: 12px;
@@ -122,6 +127,10 @@ p {
     font-weight: normal;
     padding: 10px;
     margin: 0;
+}
+
+nav p, footer p {
+    background-color: #000;
 }
 /* p is body type for remainder of text on site */
 /* background on all pages charcoal gray, name color on layout or here? */ 
@@ -134,7 +143,6 @@ footer {
 }
 
 footer ul {
-    color: #ffffff;
     list-style-type: none;
     margin-top: 0;
     padding: 10px;
@@ -146,6 +154,7 @@ footer ul li {
 }
 
 footer a {
+    color: #ffffff;
     text-decoration: none;
 }
 

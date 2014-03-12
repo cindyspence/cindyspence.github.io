@@ -60,6 +60,7 @@
 
 body {
     background-color: #696969;
+    font-family: arial, helvetica, sans-serif;
 }
     
 h1 {
@@ -79,13 +80,8 @@ p {
     {
     margin: 0;
     padding: 0;
-    border: 0:
+    border: 0;
     font-size: 100%;
-    font: inherit;
-    }
-    
-html {
-    width: 100%;
     }
     
 h1 a {
@@ -133,30 +129,35 @@ p {
 /* p is body type for remainder of text on site */
 /* background on all pages charcoal gray, name color on layout or here? */ 
 
-#footer div {
-    float:left; margin: 0 0 68px 21px;
+footer {
+    background-color: #000;
+    font-size: 14px;
 }
-#footer div:first-child {
-    margin: 0;
+
+footer ul {
+    list-style-type: none;
+    margin-top: 0;
 }
-#footer div#HOME, div#footer #ABOUT {
-    width: 139px;
+
+footer ul li {
+    margin-bottom: 20px;   
+    text-transform:uppercase;
 }
-#footer div#RECENT STORIES, div#footer #TRAVELS {
-    width: 299px;
+
+footer a {
+    text-decoration: none;
 }
-#footer div ul {
-    list-style: none;
+
+.quarter {
+    float: left;
+    width: 22%;
 }
-#footer div ul li {
-    font: Arial, Helvetica, sans-serif;
-    margin: 0 0 24px 0;
+
+.copyright {
+    clear: both;;
 }
-width: 960px;
-background-color: #000000;
-margin: 0 0 .5% 0;
-border-radius: 10px;
-}
+
+
 
 address {
 font-size : 16px; 
@@ -164,5 +165,3 @@ text-align : center;
 color: #ffffff;
 padding: 1% 0;
 }
-
-

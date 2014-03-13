@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<title>Cindy Spence, Writer and Editor</title>
+	<link rel="stylesheet" href="css/style.css" type="css/text.css" />
+	
+</head>
+<body>
+<nav role="navigation">
+
+<div id='cssmenu'>
+<ul>
+   <li class='active'><a href='index.html'><span>HOME</span></a>    </li>
+   <li><a href="about.html"><span>ABOUT</span></a></li>
+   <li><a href="recentstories.html"><span>RECENT STORIES</span>    </a></li>
+   <li class='last'><a href="travels.html"><span>TRAVELS</span></a></li>
+</ul>
+</div>
+    
+</nav>
+
+<div>
+    <h2>Recent stories</h2>
+	
+    <p>Since January 2013, I have been a science writer at the University of Florida Office of Research Communications.</p>
+    <p>In that capacity, I write magazine stories for Explore magazine and produce news releases the campus newsdesk disseminates to state and national media. As a result, my stories have appeared on science web sites and publications such as ScienceDaily and Livescience as well as mainstream media outlets. In a previous position at UF, I wrote for the Institute of Food and Agricultural Sciences, and a couple of the links below include stories for IFAS.
+</p>
+    <p>The Office of Research Communications hosted Science Writers 2013, the joint conference of the Council for the Advancement of Science Writing and the National Association of Science Writers, in November. The conference brought about 400 science writers, some from Australia and Great Britain, to Gainesville and showcased UF’s $750 million research enterprise. If you have an interest in such events, you can check out the <a href="http://www.sciencewriters2013.org/>archived web site.</a>
+A word of explanation: I had nothing to do with the design of this fabulous web site, but my co-workers were kind enough to put my name on a contest entry, which won a Gold Addy for integrated campaigns. It’s the first time I’ve won an award for proofreading.</p>
+    <p>The Explore magazine web site is in redesign, but the links below to magazines that contain my stories are active.
+</p>
+    <p>As a freelancer, I have produced annual reports, research reports, features and news stories, and links or PDFs for those will be posted shortly.
+</p>
+    <p>As I mentioned in the About section, home is more or less Amelia Island, which I wrote about for Bill McKeen's book, <a href="http://www.williammckeen.com/Homegrown_in_Florida.html">Homegrown in Florida</a>, a compilation of memories of Florida childhoods.</p>
+    <p></p>
+    <p>
+</p>
+    <br/>
+    <p>Contact me at <a class="email" href=mailto:cindyrspence@yahoo.com>Cindy Spence</a></p>
+    <a href="csresume14.pdf">My resume</a><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+	
+</div>
+	
+<footer>
+    <ul class="quarter">
+		<li><a href='index.html'><span>Home</span></a></li>
+		<li><a href='#'><span>About</span></a></li>
+        <li><a href='#'><span>Recent Stories</span></a></li>
+        <li class='last'><a href='#'><span>Travels</span></a></li>
+    </ul>
+    <p class="quarter"><a class="email" href=mailto:cindyrspence@yahoo.com>Cindy Spence</a></p>
+    <p class="quarter"><a class=”facebook” href=https://www.facebook.com/cindy.spence.31>Facebook</a></p>
+ 	<p class="quarter"><a class=”twitter” href=https://twitter.com/Cindyrspence>Twitter</a></p>
+    <p class="copyright">&copy; Copyright Cindy Spence 2014</p>
+</footer>
+
+</body>
+    
+</html>

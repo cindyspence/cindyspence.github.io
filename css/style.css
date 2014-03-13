@@ -1,7 +1,6 @@
+@charset "UTF-8";
 /* set repeating page background image */
-/* trying to kick folder renaming */
-@charset 'UTF-8';
-/* css for menu bar */
+/* trying to kick folder renaming *//* css for menu bar */
 #cssmenu,
 #cssmenu ul,
 #cssmenu li #cssmenu a {
@@ -17,7 +16,6 @@
   width: auto;
 }
 #cssmenu ul {
-  zoom: 1;
   background: #000000 url(pattern.png) top left repeat;
   border-radius: 4px;
   border: 1px solid #000000;
@@ -60,7 +58,7 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
-
+/* using webkit and moz because when i take it out things shift */
 body {
     font-family: Arial, Helvetica, sans-serif;
     color: #ffffff;
@@ -68,7 +66,6 @@ body {
     
 h1 {
     color: #00FFFF;
-    float: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 60px;
     line-height: 1.5em;
@@ -121,7 +118,7 @@ h3 {
 p {
     font-family: Arial, Helvetica, sans-serif;
     color: #ffffff;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 1.5em;
     width: 480px;
     font-weight: normal;

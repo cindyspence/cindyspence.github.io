@@ -57,6 +57,11 @@ html {
   background-size: cover;
 }
 /* using webkit and moz because when i take it out things shift */
+
+/* will use different background photo when I can use one I didn't take myself */
+
+/* Is there a way to keep background photo on home page but have a plain background for pages after it? I have an idea about a way but not sure whether to try it and lose what's here */
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     color: #ffffff;
@@ -70,7 +75,7 @@ h1 {
     font-weight: 100;
     margin: 0;
 }
-
+/* the lightest font weight I could find in the book was 100 but would like a way to make the h1 and h2 fonts lighter still */
 p {
     color: #ffffff;
     }
@@ -119,7 +124,7 @@ nav p, footer p {
     background-color: #000;
 }
 /* p is body type for remainder of text on site */
-/* background on all pages charcoal gray, name color on layout or here? */ 
+/* should body font be larger? */ 
 
 footer {
     background-color: #000;
@@ -153,3 +158,4 @@ footer a {
     background-color: #000;
     clear: both;;
 }
+/* validated with W3C CSS validation service */

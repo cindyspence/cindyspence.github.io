@@ -143,6 +143,7 @@ footer ul {
 }
 
 footer ul li {
+    display: inline;
     margin-bottom: 10px;   
     text-transform:uppercase;
 }

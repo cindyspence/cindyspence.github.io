@@ -124,9 +124,9 @@ p {
 }
 
 /*float right*/
-.right
+.left
 {
-    float: right; /*in text*/
+    float: left; /*in text*/
     margin: 3px; /*space around photo*/
 }
 

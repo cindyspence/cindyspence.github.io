@@ -126,10 +126,11 @@ p {
 /*float side by side*/
 .right 
 {
-float:right;
-width:210px;
-height:190px;
-margin:100px;
+float: right;
+width: 210px;
+height: 190px;
+padding-right: 400px;
+margin: 10px;
 }.left
 
 nav p, footer p {

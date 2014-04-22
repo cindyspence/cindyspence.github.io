@@ -123,12 +123,14 @@ p {
     margin: 0;
 }
 
-/*float right*/
-.left
+/*float side by side*/
+.right 
 {
-    float: left; /*in text*/
-    margin: 3px; /*space around photo*/
-}
+float:left;
+width:110px;
+height:90px;
+margin:5px;
+}.left
 
 nav p, footer p {
     background-color: #000;

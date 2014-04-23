@@ -80,6 +80,9 @@ h1 {
 .right {
     float: right;
 }
+.left {
+    float: left;
+}
 p {
     color: #ffffff;
     }
